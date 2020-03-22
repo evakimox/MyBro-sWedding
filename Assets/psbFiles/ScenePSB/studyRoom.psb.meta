@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 608f4fe1f37bc664f8d83164941e43c3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: knifeInHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3784
+      y: 249
+      width: 77
+      height: 209
+    spriteID: 5cb0e7930e54c6d47bb95ba69db66e40
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2250, y: -486}
+  - name: tissuePaperInHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 3891
+      width: 84
+      height: 76
+    spriteID: 731d9cc0d5617c24895522ae9eeabdd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -508, y: 2921}
+  - name: Shaka_hands
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3784
+      y: 585
+      width: 110
+      height: 66
+    spriteID: d39a018fd36bdae49b3dede0debd0824
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2273, y: -183}
+  - name: Mu_hands
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3784
+      y: 103
+      width: 152
+      height: 138
+    spriteID: 7685c5d52773cb54ba828c2552d6fe52
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3164, y: -794}
+  - name: apple
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3784
+      y: 466
+      width: 111
+      height: 111
+    spriteID: 92fe557404e33554693fcb2f1ded8b37
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2337, y: -338}
+  - name: scissors
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3773
+      width: 210
+      height: 110
+    spriteID: b639d23c2a3e88e4e9ec0aa42c5ecf7c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -328, y: 3158}
+  - name: basket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3116
+      width: 213
+      height: 207
+    spriteID: 736ec04d0725f654da1883ab063a1242
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1445, y: 2342}
+  - name: diary
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3572
+      width: 132
+      height: 193
+    spriteID: 96f095453435458468e227d78c5978b1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2036, y: 2461}
+  - name: globe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3331
+      width: 189
+      height: 233
+    spriteID: 5ec76bdc2be2811418db3e1050f17459
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2032, y: 2483}
+  - name: earbuds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 3975
+      width: 60
+      height: 38
+    spriteID: 4d5d7fcb034d7c7418b7587b6261f25f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1983, y: 3054}
+  - name: thread
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3891
+      width: 112
+      height: 199
+    spriteID: 3880465febd9c7948bef98c9ee0b53a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2276, y: 2770}
+  - name: knife
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3784
+      y: 4
+      width: 261
+      height: 91
+    spriteID: 2d00362fdeb5d114f9c41c93f16b10b2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1576, y: -700}
+  - name: needle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 3116
+      width: 193
+      height: 63
+    spriteID: 33482872b4c998e41a1a14d73410d50c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1859, y: 2378}
+  - name: Shaka
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1834
+      width: 456
+      height: 1274
+    spriteID: 0407684c8c72edf4da70aec4c120e29c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1426, y: 1834}
+  - name: desk
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2512
+      y: 4
+      width: 1264
+      height: 1049
+    spriteID: 6864ac24a940062428067871201d0622
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2237, y: 4}
+  - name: Mu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2512
+      y: 1061
+      width: 424
+      height: 667
+    spriteID: 526d560ec79f1b748b221bd3642f36d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2164, y: 319}
+  - name: bg_study
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2500
+      height: 1822
+    spriteID: 07de6c66fb8dce441a4eea05abb87c89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2500, y: 1822}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: knifeInHand
+    spriteName: knifeInHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5cb0e7930e54c6d47bb95ba69db66e40
+    layerID: 1352035251
+    mosaicPosition: {x: 3784, y: 249}
+  - name: tissuePaperInHand
+    spriteName: tissuePaperInHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 731d9cc0d5617c24895522ae9eeabdd4
+    layerID: -2135326589
+    mosaicPosition: {x: 124, y: 3891}
+  - name: Shaka_hands
+    spriteName: Shaka_hands
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d39a018fd36bdae49b3dede0debd0824
+    layerID: -484895793
+    mosaicPosition: {x: 3784, y: 585}
+  - name: Mu_hands
+    spriteName: Mu_hands
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7685c5d52773cb54ba828c2552d6fe52
+    layerID: -1914806485
+    mosaicPosition: {x: 3784, y: 103}
+  - name: apple
+    spriteName: apple
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 92fe557404e33554693fcb2f1ded8b37
+    layerID: 1548091822
+    mosaicPosition: {x: 3784, y: 466}
+  - name: scissors
+    spriteName: scissors
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b639d23c2a3e88e4e9ec0aa42c5ecf7c
+    layerID: 224560939
+    mosaicPosition: {x: 4, y: 3773}
+  - name: basket
+    spriteName: basket
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 736ec04d0725f654da1883ab063a1242
+    layerID: -1163540808
+    mosaicPosition: {x: 4, y: 3116}
+  - name: diary
+    spriteName: diary
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 96f095453435458468e227d78c5978b1
+    layerID: -2121880721
+    mosaicPosition: {x: 4, y: 3572}
+  - name: globe
+    spriteName: globe
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5ec76bdc2be2811418db3e1050f17459
+    layerID: 1016943167
+    mosaicPosition: {x: 4, y: 3331}
+  - name: earbuds
+    spriteName: earbuds
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d5d7fcb034d7c7418b7587b6261f25f
+    layerID: 132061022
+    mosaicPosition: {x: 124, y: 3975}
+  - name: thread
+    spriteName: thread
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3880465febd9c7948bef98c9ee0b53a3
+    layerID: -239813090
+    mosaicPosition: {x: 4, y: 3891}
+  - name: knife
+    spriteName: knife
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2d00362fdeb5d114f9c41c93f16b10b2
+    layerID: -105437949
+    mosaicPosition: {x: 3784, y: 4}
+  - name: needle
+    spriteName: needle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33482872b4c998e41a1a14d73410d50c
+    layerID: 1523132423
+    mosaicPosition: {x: 225, y: 3116}
+  - name: Shaka
+    spriteName: Shaka
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0407684c8c72edf4da70aec4c120e29c
+    layerID: 371793716
+    mosaicPosition: {x: 4, y: 1834}
+  - name: desk
+    spriteName: desk
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6864ac24a940062428067871201d0622
+    layerID: -2081060087
+    mosaicPosition: {x: 2512, y: 4}
+  - name: Mu
+    spriteName: Mu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 526d560ec79f1b748b221bd3642f36d7
+    layerID: -1991483144
+    mosaicPosition: {x: 2512, y: 1061}
+  - name: bg_study
+    spriteName: bg_study
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 07de6c66fb8dce441a4eea05abb87c89
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: studyRoom Texture
+  prefabAssetName: studyRoom Prefab
+  spriteLibAssetName: studyRoom Sprite Lib
+  secondarySpriteTextures: []

@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 21b4da3d2bf3c6d419c1ce2d02f72d44
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: tissue
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2199
+      y: 1834
+      width: 218
+      height: 251
+    spriteID: df4564a4ef777fe479ddbae34ffd4047
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1364, y: 1413}
+  - name: card
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 2351
+      width: 214
+      height: 106
+    spriteID: 3ae5af30ec1e18848a8c399cc16f026d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1212, y: 1756}
+  - name: coverredTable
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1834
+      width: 1368
+      height: 726
+    spriteID: dfbf5b2df5fe1c543a42ec93520d0615
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -232, y: 1834}
+  - name: noncoverTable
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2568
+      width: 1351
+      height: 726
+    spriteID: 2400a44164eb5324bbfe4ed3c4b6e0c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -248, y: 2568}
+  - name: Hyoga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2512
+      y: 4
+      width: 404
+      height: 807
+    spriteID: 8ced8ca1e755b1945bf5a64528c4b52d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2472, y: -120}
+  - name: Issac
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 1834
+      width: 383
+      height: 509
+    spriteID: eb5e7caa5323a83488b622c3bdef5b29
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 942, y: 1186}
+  - name: Milo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1363
+      y: 2568
+      width: 783
+      height: 1204
+    spriteID: d56d2677877959d47ac7ca6bee3dfa4c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -354, y: 2568}
+  - name: Camus_eyesOnHyoga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 2351
+      width: 79
+      height: 32
+    spriteID: e266cd72c7e1e9740bacb7f12b7d6a72
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1436, y: 1312}
+  - name: Camus_eyesOnMilo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2030
+      y: 2391
+      width: 70
+      height: 35
+    spriteID: c821be77288645f48858bde17df1ed8f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1428, y: 1353}
+  - name: Camus_eyesClosed
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2117
+      y: 2351
+      width: 66
+      height: 13
+    spriteID: a200724a595728f42869d381500ab0a6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1515, y: 1309}
+  - name: Camus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1380
+      y: 1834
+      width: 420
+      height: 635
+    spriteID: 129fb069a2eec9446870af687c6af410
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1091, y: 1225}
+  - name: bg_diningTable
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2500
+      height: 1822
+    spriteID: c73ca4bfefc19c245babe6f7b2e18997
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2500, y: 1822}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: tissue
+    spriteName: tissue
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df4564a4ef777fe479ddbae34ffd4047
+    layerID: 2019303641
+    mosaicPosition: {x: 2199, y: 1834}
+  - name: card
+    spriteName: card
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3ae5af30ec1e18848a8c399cc16f026d
+    layerID: 762134932
+    mosaicPosition: {x: 1808, y: 2351}
+  - name: coverredTable
+    spriteName: coverredTable
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dfbf5b2df5fe1c543a42ec93520d0615
+    layerID: -392970312
+    mosaicPosition: {x: 4, y: 1834}
+  - name: noncoverTable
+    spriteName: noncoverTable
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2400a44164eb5324bbfe4ed3c4b6e0c4
+    layerID: 2042422236
+    mosaicPosition: {x: 4, y: 2568}
+  - name: Hyoga
+    spriteName: Hyoga
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8ced8ca1e755b1945bf5a64528c4b52d
+    layerID: 445949322
+    mosaicPosition: {x: 2512, y: 4}
+  - name: Issac
+    spriteName: Issac
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb5e7caa5323a83488b622c3bdef5b29
+    layerID: 1326417167
+    mosaicPosition: {x: 1808, y: 1834}
+  - name: Milo
+    spriteName: Milo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d56d2677877959d47ac7ca6bee3dfa4c
+    layerID: -1644016557
+    mosaicPosition: {x: 1363, y: 2568}
+  - name: Camus_eyesOnHyoga
+    spriteName: Camus_eyesOnHyoga
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e266cd72c7e1e9740bacb7f12b7d6a72
+    layerID: -2133363019
+    mosaicPosition: {x: 2030, y: 2351}
+  - name: Camus_eyesOnMilo
+    spriteName: Camus_eyesOnMilo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c821be77288645f48858bde17df1ed8f
+    layerID: -221294894
+    mosaicPosition: {x: 2030, y: 2391}
+  - name: Camus_eyesClosed
+    spriteName: Camus_eyesClosed
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a200724a595728f42869d381500ab0a6
+    layerID: 1480341804
+    mosaicPosition: {x: 2117, y: 2351}
+  - name: Camus
+    spriteName: Camus
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 129fb069a2eec9446870af687c6af410
+    layerID: 1803346093
+    mosaicPosition: {x: 1380, y: 1834}
+  - name: bg_diningTable
+    spriteName: bg_diningTable
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c73ca4bfefc19c245babe6f7b2e18997
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: diningTable Texture
+  prefabAssetName: diningTable Prefab
+  spriteLibAssetName: diningTable Sprite Lib
+  secondarySpriteTextures: []

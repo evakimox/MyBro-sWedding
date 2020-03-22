@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: cb28e4d8778c192438a5dc74eac4fec0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Shun
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1264
+      y: 2447
+      width: 217
+      height: 663
+    spriteID: 4116826b4ff268b4b9cd827de664fd7c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -363, y: 2357}
+  - name: Seiya
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2548
+      y: 1834
+      width: 616
+      height: 435
+    spriteID: 9bd9c60b6c5db154b8bcc310cc6f5fbf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2200, y: 1834}
+  - name: shrimp
+    originalName: 
+    pivot: {x: 0.42839625, y: 0.96572185}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3519
+      width: 86
+      height: 119
+    spriteID: a2a02fc037cb46645a2f2a2955469382
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -301, y: 3107}
+  - name: Shiryu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1934
+      y: 1834
+      width: 606
+      height: 545
+    spriteID: d95e22d5ded541249a258d6ecfa9abaa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1611, y: 1086}
+  - name: tree
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2512
+      y: 4
+      width: 1499
+      height: 1822
+    spriteID: daafddc322b56254d89aa5c17f3e1f1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2120, y: 4}
+  - name: house
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1834
+      width: 589
+      height: 1677
+    spriteID: b7498b3bdf80ff64eaa4808efa5fbe80
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1907, y: 1834}
+  - name: Ikki
+    originalName: 
+    pivot: {x: 0.1, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1264
+      y: 1834
+      width: 662
+      height: 605
+    spriteID: 0d207fedc7a54b04e87853be7a8f3441
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -263, y: 1195}
+  - name: riverWater
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 601
+      y: 1834
+      width: 655
+      height: 1301
+    spriteID: fcdb13be5e54f354394ea044d554891c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 562, y: 1755}
+  - name: bg_houseDoor2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2500
+      height: 1822
+    spriteID: a69b8bab1a5394b42b84da31ca2dd929
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2500, y: 1822}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 1
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Shun
+    spriteName: Shun
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4116826b4ff268b4b9cd827de664fd7c
+    layerID: -219094542
+    mosaicPosition: {x: 1264, y: 2447}
+  - name: Seiya
+    spriteName: Seiya
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9bd9c60b6c5db154b8bcc310cc6f5fbf
+    layerID: -1443115557
+    mosaicPosition: {x: 2548, y: 1834}
+  - name: shrimp
+    spriteName: shrimp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2a02fc037cb46645a2f2a2955469382
+    layerID: 808686669
+    mosaicPosition: {x: 4, y: 3519}
+  - name: Shiryu
+    spriteName: Shiryu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d95e22d5ded541249a258d6ecfa9abaa
+    layerID: -1825796296
+    mosaicPosition: {x: 1934, y: 1834}
+  - name: tree
+    spriteName: tree
+    isGroup: 0
+    parentIndex: -1
+    spriteID: daafddc322b56254d89aa5c17f3e1f1f
+    layerID: -971704210
+    mosaicPosition: {x: 2512, y: 4}
+  - name: house
+    spriteName: house
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b7498b3bdf80ff64eaa4808efa5fbe80
+    layerID: 82772026
+    mosaicPosition: {x: 4, y: 1834}
+  - name: Ikki
+    spriteName: Ikki
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0d207fedc7a54b04e87853be7a8f3441
+    layerID: 365757994
+    mosaicPosition: {x: 1264, y: 1834}
+  - name: riverWater
+    spriteName: riverWater
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fcdb13be5e54f354394ea044d554891c
+    layerID: -1592841041
+    mosaicPosition: {x: 601, y: 1834}
+  - name: bg_houseDoor2
+    spriteName: bg_houseDoor2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a69b8bab1a5394b42b84da31ca2dd929
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: houseDoor2 Texture
+  prefabAssetName: houseDoor2 Prefab
+  spriteLibAssetName: houseDoor2 Sprite Lib
+  secondarySpriteTextures: []

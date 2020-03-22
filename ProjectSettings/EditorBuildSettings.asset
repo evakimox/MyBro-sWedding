@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/stage.unity
+    guid: 4406b892b64882d49bb11eb43dcdd823
+  - enabled: 1
+    path: Assets/Scenes/bedroom.unity
+    guid: 452c45a800cdb3c4a95f7bfb39afbe34
+  - enabled: 1
+    path: Assets/Scenes/dining.unity
+    guid: 005743c7af38e9b408f9c79814b4748c
+  - enabled: 1
+    path: Assets/Scenes/river.unity
+    guid: b08edd9954fa93f4199d436506485abb
+  - enabled: 1
+    path: Assets/Scenes/study.unity
+    guid: 2530373b447e2284eaa9918ee7675bd0
+  - enabled: 1
+    path: Assets/Scenes/telescopeScene.unity
+    guid: 443d4e6f574ad2541bdf63fe4f532838
+  m_configObjects: {}
